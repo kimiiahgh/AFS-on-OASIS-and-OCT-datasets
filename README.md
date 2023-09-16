@@ -5,6 +5,6 @@ AFS code:(https://github.com/upup123/AAAI-2019-AFS)
 
 AFS paper:(https://ojs.aaai.org/index.php/AAAI/article/view/4255/4133)
 
-OASIS:([https://www.openicpsr.org/openicpsr/project/108503/version/V1/view](https://www.oasis-brains.org))
+OASIS:(https://www.oasis-brains.org)
 
 OCT:(https://www.openicpsr.org/openicpsr/project/108503/version/V1/view)
